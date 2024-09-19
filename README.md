@@ -1,6 +1,3 @@
-aluno: joao augusto de freias Gonçalves
-RA: 111757-21
-
 Sistema de Controle de Despesas
 
 Entrar Despesa-
